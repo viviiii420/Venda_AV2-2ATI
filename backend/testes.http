@@ -1,0 +1,6 @@
+### Testes RESTful para FastAPI
+
+GET http://localhost:8000/vendas
+Accept: application/json
+
+### Adicione outros testes conforme as rotas forem criadas
